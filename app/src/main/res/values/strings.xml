@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E9ine - Driver</string>
+    <string name="app_description">Sample project to start with MVP architecture</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--Labels & Hints-->
+    <string name="name_hint">Name</string>
+
+</resources>
