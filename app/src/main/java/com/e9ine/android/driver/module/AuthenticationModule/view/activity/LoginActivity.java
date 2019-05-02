@@ -11,6 +11,6 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        //jinkin push success 1233131
+        //jenkin push success 1000
     }
 }
